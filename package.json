@@ -1,5 +1,6 @@
 {
   "name": "swimmingpool",
+  "homepage": "https://omegastaging.com.au/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
